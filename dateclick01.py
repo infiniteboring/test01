@@ -1,5 +1,6 @@
 import pyautogui
 import time
+
 while True:
 
  time1 = list(time.localtime())  # 获取本地时间
@@ -12,5 +13,5 @@ while True:
    pyautogui.click()
    break
 
-
+#
 
